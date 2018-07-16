@@ -1,0 +1,11 @@
+c:\users\kyle\source\repos\CrosswordSolver\CrosswordSolver\bin\Debug\netcoreapp2.0\CrosswordSolver.deps.json
+c:\users\kyle\source\repos\CrosswordSolver\CrosswordSolver\bin\Debug\netcoreapp2.0\CrosswordSolver.runtimeconfig.json
+c:\users\kyle\source\repos\CrosswordSolver\CrosswordSolver\bin\Debug\netcoreapp2.0\CrosswordSolver.runtimeconfig.dev.json
+c:\users\kyle\source\repos\CrosswordSolver\CrosswordSolver\bin\Debug\netcoreapp2.0\CrosswordSolver.dll
+c:\users\kyle\source\repos\CrosswordSolver\CrosswordSolver\bin\Debug\netcoreapp2.0\CrosswordSolver.pdb
+c:\users\kyle\source\repos\CrosswordSolver\CrosswordSolver\obj\Debug\netcoreapp2.0\CrosswordSolver.csprojAssemblyReference.cache
+c:\users\kyle\source\repos\CrosswordSolver\CrosswordSolver\obj\Debug\netcoreapp2.0\CrosswordSolver.csproj.CoreCompileInputs.cache
+c:\users\kyle\source\repos\CrosswordSolver\CrosswordSolver\obj\Debug\netcoreapp2.0\CrosswordSolver.AssemblyInfoInputs.cache
+c:\users\kyle\source\repos\CrosswordSolver\CrosswordSolver\obj\Debug\netcoreapp2.0\CrosswordSolver.AssemblyInfo.cs
+c:\users\kyle\source\repos\CrosswordSolver\CrosswordSolver\obj\Debug\netcoreapp2.0\CrosswordSolver.dll
+c:\users\kyle\source\repos\CrosswordSolver\CrosswordSolver\obj\Debug\netcoreapp2.0\CrosswordSolver.pdb
